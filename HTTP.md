@@ -6,6 +6,7 @@
     * [RFC 7234 Caching](http://tools.ietf.org/html/rfc7234)
     * [RFC 7235 Authentication](http://tools.ietf.org/html/rfc7235)
     * [PATCH Method for HTTP](http://tools.ietf.org/html/rfc5789)
+    ** [JSON PATCH Method](http://tools.ietf.org/html/rfc6902)
     * [LINK & UNLINK Methods _(not RFC yet)_](http://tools.ietf.org/html/draft-snell-link-method-01)
     * [HTTP Method Registry](http://www.iana.org/assignments/http-methods/http-methods.xhtml)
     * [HTTP Status Code Registry](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
